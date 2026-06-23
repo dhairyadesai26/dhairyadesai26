@@ -117,9 +117,7 @@ Task management app with Google OAuth, real-time collaboration, and automated em
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://portfolio-xi-ashen-34.vercel.app/projects"><img src="https://img.shields.io/badge/View%20All%20Projects-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="All Projects"/></a>
-</p>
+
 
 ---
 
