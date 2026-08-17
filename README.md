@@ -37,7 +37,7 @@ const dhairya = {
 ## 💼 Experience
 
 ### 🛠️ Engineering Intern — **UpstageX**
-`📍 Remote` · `Jun 2026 – Present`
+`📍 Remote` · `Jun 2026 – Aug 2026`
 
 - Working with the **Engineering & Support Team** on full-stack application development.
 - Implementing features, debugging, and improving application performance.
