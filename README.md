@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://portfolio-xi-ashen-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-xi-ashen-34.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge&labelColor=0f172a&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/dhairya-desai12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/dhairyadesai26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/dhairya2625/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -256,7 +256,7 @@ Task management app with Google OAuth, real-time collaboration, and automated em
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-xi-ashen-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://portfolio-xi-ashen-34.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge&labelColor=0f172a&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dhairya-desai12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dhairyadesai950@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/dhairyadesai26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
