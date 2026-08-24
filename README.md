@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhairya+Desai+%F0%9F%91%8B;Full-Stack+Software+Engineer;Engineering+Intern+%40+UpstageX;MERN+%26+Next.js+Enthusiast;Building+AI-Powered+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhairya+Desai+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  <a href="https://portfolio-xi-ashen-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/dhairya-desai12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/dhairyadesai26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/dhairya2625/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -30,7 +31,7 @@ const dhairya = {
 };
 ```
 
-> Passionate software developer focused on building **scalable, user-centric applications** and continuously expanding my expertise in modern web technologies. I enjoy turning ideas into products, solving complex problems, and contributing to impactful engineering initiatives.
+> Passionate software developer focused on building **scalable, user-centric applications** and continuously expanding my expertise in modern web technologies. I enjoy turning ideas into products, solving challenging problems, and shipping real engineering that creates impact.
 
 ---
 
@@ -55,7 +56,7 @@ const dhairya = {
 ### 🧭 [IntelliPath](https://intellipathai-ochre.vercel.app/)
 **AI Career Guidance Platform**
 
-Full-stack platform that analyzes user skills to generate personalized career recommendations, skill-gap analysis, and structured learning roadmaps — with an AI resume builder, mock interviews & industry insights.
+Full-stack platform that analyzes user skills to generate personalized career recommendations, skill-gap analysis, and structured learning roadmaps — with an AI resume builder, mock interviews & more.
 
 `Next.js` `TypeScript` `Prisma` `Supabase` `Clerk` `Inngest`
 
@@ -182,7 +183,7 @@ Task management app with Google OAuth, real-time collaboration, and automated em
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhairyadesai26&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhairyadesai26&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&stat_color=38BDF8" alt="GitHub Stats" />
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyadesai26&hide_border=true&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
@@ -214,7 +215,7 @@ Task management app with Google OAuth, real-time collaboration, and automated em
 
 **🔑 500+ problems solved.** Strong command of the patterns that matter:
 
-`Sorting` · `Stack` · `Queue` · `Linked Lists` · `Trees` · `BST` · `AVL Trees` · `Heap` · `Heap Sort` · `Graphs` · `BFS` · `DFS` · `Monotonic Stack` · `Next Greater Element` · `Recursion` · `Dynamic Programming`
+`Sorting` · `Stack` · `Queue` · `Linked Lists` · `Trees` · `BST` · `AVL Trees` · `Heap` · `Heap Sort` · `Graphs` · `BFS` · `DFS` · `Monotonic Stack` · `Next Greater Element` · `Recursion` · `Backtracking` · `Dynamic Programming` · `Two Pointers` · `Sliding Window` · `Bit Manipulation`
 
 ---
 
@@ -255,6 +256,7 @@ Task management app with Google OAuth, real-time collaboration, and automated em
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://portfolio-xi-ashen-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dhairya-desai12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dhairyadesai950@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/dhairyadesai26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
